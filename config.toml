@@ -1,0 +1,188 @@
+# Site settings
+baseURL = "https://dspg2019.github.io/"
+languageCode = "en-us"
+title = "Data Science for the Public Good"
+theme = "forty"
+publishDir = "dspg2019.github.io"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = "UA-130083897-2"
+
+# Enter your disqus shortname to enable comments
+#disqusShortname = ""
+
+[params]
+  # You can use Markdown syntax for urls [text](//url.to/source)
+  # To create multi-line text in strings use the """example Text""" format
+  #
+  # All icons using Fontawesome's icon font. Look at fontawesome.io/icons
+  # for more icons. The icons are represented by their corresponding
+  # CSS class.
+
+  # Provide your metadata here.
+  name = "Social and Decision Analytics Division"
+  description = "Biocomplexity Institue and Initiative"
+
+  # Link custom assets relative to /static
+  custom_css = []
+  custom_js  = []
+  favicon    = "favicon.ico"
+
+  # Just a custom image variable, please define it in .md files for content.
+  image = ""
+
+  # 404 error customization
+  [params.error404]
+    heading = "Page couldn't be found"
+    text = "Please visit [this page](/)"
+
+  # Navigation Section
+  [params.navigation]
+    title = "DSPG"
+    subtitle = "2019"
+    menu = "Menu"
+    # Optional logo as brand stored in img/
+    # logo = "logo.png"
+
+    [[params.navigation.links]]
+      name = "Home"
+      url = "#"
+
+    [[params.navigation.links]]
+      name = "About the Program"
+      url = "about"
+
+    [[params.navigation.links]]
+      name = "Apply"
+      url = "apply"
+
+    #[[params.navigation.links]]
+    #  name = "Elements"
+    #  url = "elements.html"
+
+    # Add custom links here by uncommenting code below. To remove links just delete
+    # the [[params.navigation.links]] map associated with that link. Copy and paste
+    # code below if you need more links. Buttons work in the same way.
+    # [[params.navigation.links]]
+    #    name = "NameOfLink"
+    #    url = "UrlOfLink"
+
+    # Button Style 1
+    #[[params.navigation.button1]]
+    #  name = "Get Started"
+    #  url = "about"
+
+    # Button Style 2
+    #[[params.navigation.button2]]
+    #  name = "Log In"
+    #  url = "#"
+
+
+  # Banner section
+  [params.banner]
+    # To change the background image on the homepage banner, replace 'banner.jpg' in
+    # the 'static/img' folder.
+    title = "Data Scince for the Public Good"
+    subtitle = "The Data Science for the Public Good program (DSPG) engages young scholars in finding solutions to some of the most pressing social issues of our time. DSPG fellows conduct research at the intersection of statistics, computation, and the social sciences to determine how information generated within every community can be leveraged to improve quality of life."
+    buttonText = "Learn More"
+
+
+  # Tiles Section
+  [params.tiles]
+    enable = true
+    # Display your showcases here.
+
+    [[params.tiles.showcase]]
+      title = "Impact"
+      subtitle = "As metropolitan areas assume greater responsibility for driving social transformation and economic prosperity, the demand for publicly engaged and highly trained data scientists will continue to grow."
+      image = "pic03.jpg"
+      url = "blogs/magna"
+
+    [[params.tiles.showcase]]
+      title = "Methods"
+      subtitle = "The Data Science for the Public Good program teaches student fellows how to sift through vast amounts of information related to public safety, employment, and the provision of services to discover how communities can become more efficient and sustainable."
+      image = "pic02.jpg"
+      url = "blogs/tempus"
+
+    [[params.tiles.showcase]]
+      title = "Problem"
+      subtitle = "Our communities are engaged in a tremendous struggle to manage conflicting forces that threaten their ability to evolve and thrive. Government officials and policymakers must continuously develop their capacity to provide health, safety, security, employment, and leisure to their constituents. Sustaining this level of growth is becoming increasingly difficult in a climate of diminishing resources, mounting inequality, rapid technological change, and expanding global networks."
+      image = "pic01.jpg"
+      url = "blogs/aliquam"
+
+    [[params.tiles.showcase]]
+      title = "Former Projects"
+      subtitle = "Nisl Sed Aliquam"
+      image = "pic04.jpg"
+      url = "blogs/ipsum"
+
+    [[params.tiles.showcase]]
+      title = "Consequat"
+      subtitle = "Ipsum Dolor Sit Amet"
+      image = "pic05.jpg"
+      url = "blogs/ipsum"
+
+    [[params.tiles.showcase]]
+      title = "Etiam"
+      subtitle = "Feugiat Amet Tempus"
+      image = "pic06.jpg"
+      url = "blogs/ipsum"
+    # You can make more showcases by copy and pasting the code above
+
+  [params.blog]
+    # All blogs defined in their own files. You can find example blogs
+    # at 'exampleSite/content/blogs'. Copy the 'blogs' folder into the 'content' directory
+    # at the root of this Hugo site.
+    # For more informtion take a look at the README.
+    # To add more blogs just copy and paste the code.
+
+  # Section Type Two
+  [params.two]
+    enable = true
+    title = "Learn the technical skills needed in data science"
+    subtitle = """The stack of tools and skills needed in data science"""
+    buttonText = "Apply Now"
+    url = "blogs"
+
+
+  # Contact section
+  [params.contact]
+    enable = false
+    buttonSend = "Send message"
+    buttonClear = "Clear"
+
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a POST request to their servers to send the actual
+    # email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below and uncomment
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+    # formEmail = "example@domain.com"
+
+    # Contact Section
+    # You can add multiple emails, phone numbers, or addresses
+    # by copying the corresponding map with frontmatter code.
+    [[params.contact.email]]
+    title = "Email"
+    email = "example@example.com"
+
+    [[params.contact.phone]]
+    title = "Phone"
+    phone = "(000) 000-0000 x1234"
+
+    [[params.contact.address]]
+    title = "Address"
+    street = "1100 Wilson Blvd, 29th Floor"
+    city = "Arlington, VA 22209"
+    # country = "Country"
+
+  # Footer section
+  [params.footer]
+    enable = true
+    copyright = "Social and Decision Analytics Division"
