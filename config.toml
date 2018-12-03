@@ -51,11 +51,11 @@ googleAnalytics = "UA-130083897-2"
 
     [[params.navigation.links]]
       name = "About the Program"
-      url = "about"
+      url = "blogs"
 
     [[params.navigation.links]]
       name = "Apply"
-      url = "apply"
+      url = "blogs/tempus"
 
     #[[params.navigation.links]]
     #  name = "Elements"
