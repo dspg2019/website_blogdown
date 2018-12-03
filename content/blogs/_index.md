@@ -1,9 +1,9 @@
 ---
-title: "Lifestyle"
+title: "Data Scince for the Public Good"
 slug: "blogs"
 image: pic02.jpg
-date: 2017-10-31T22:27:21-05:00
+date: 
 draft: false
 ---
 
-My blogs about technology and lifestyle.
+About the program and how to apply.
