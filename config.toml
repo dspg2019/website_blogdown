@@ -104,19 +104,19 @@ googleAnalytics = "UA-130083897-2"
 
     [[params.tiles.showcase]]
       title = "Methods"
-      subtitle = "The Data Science for the Public Good program teaches student fellows how to sift through vast amounts of information related to public safety, employment, and the provision of services to discover how communities can become more efficient and sustainable."
+      subtitle = "The program teaches student fellows how to sift through vast amounts of information related to public safety, employment, and the provision of services to discover how communities can become more efficient and sustainable."
       image = "pic02.jpg"
       url = "about/dspg/#methods"
 
     [[params.tiles.showcase]]
       title = "Problem"
-      subtitle = "Our communities are engaged in a tremendous struggle to manage conflicting forces that threaten their ability to evolve and thrive. Government officials and policymakers must continuously develop their capacity to provide health, safety, security, employment, and leisure to their constituents. Sustaining this level of growth is becoming increasingly difficult in a climate of diminishing resources, mounting inequality, rapid technological change, and expanding global networks."
+      subtitle = "Our communities are engaged in a tremendous struggle to manage conflicting forces that threaten their ability to evolve and thrive."
       image = "pic01.jpg"
       url = "about/dspg/#problem"
 
     [[params.tiles.showcase]]
       title = "Projects"
-      subtitle = "Research from the Data Science for the Public Good (DSPG) program addresses fundamental problems faced by governmental agencies tasked with serving the public good, institutions ranging from the Department of Defense to emergency response services in our local county. The poster presentations below represent the range of research we've performed on behalf of each of our sponsors."
+      subtitle = "The poster presentations represent the range of research we've performed on behalf of each of our sponsors."
       image = "adult-back-view-beanie-7368.jpg"
       url = "about/projects"
 
