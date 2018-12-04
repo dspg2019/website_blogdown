@@ -1,6 +1,6 @@
 ---
 title: "Data Scince for the Public Good"
-slug: "blogs"
+slug: "about"
 image: pic02.jpg
 date: 
 draft: false

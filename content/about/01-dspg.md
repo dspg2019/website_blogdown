@@ -1,7 +1,7 @@
 ---
 title: "Data Science for the Public Good Program"
 description: "The Data Science for the Public Good program (DSPG) engages young scholars in finding solutions to some of the most pressing social issues of our time. DSPG fellows conduct research at the intersection of statistics, computation, and the social sciences to determine how information generated within every community can be leveraged to improve quality of life."
-slug: "ipsum"
+slug: "dspg"
 image: pic10.jpg
 keywords: ""
 categories: 

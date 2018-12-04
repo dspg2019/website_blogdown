@@ -1,7 +1,7 @@
 ---
-title: "DSPG Presentations"
+title: "DSPG Projects"
 description: "Research from the Data Science for the Public Good (DSPG) program addresses fundamental problems faced by governmental agencies tasked with serving the public good, institutions ranging from the Department of Defense to emergency response services in our local county. The poster presentations below represent the range of research we've performed on behalf of each of our sponsors."
-slug: "magna"
+slug: "projects"
 image: pic09.jpg
 keywords: ""
 categories: 
