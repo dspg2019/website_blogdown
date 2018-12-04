@@ -1,6 +1,6 @@
 ---
 title: "Apply (Call for students)"
-description: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus."
+description: "Delivered by the Biocomplexity Institute and Initiative at the University of Virginia, SDAD’s Data Science for the Public Good program (DSPG) offers a range of unique opportunities to aspiring scholars and future data science practitioners."
 slug: "apply"
 image: pic08.jpg
 keywords: ""
