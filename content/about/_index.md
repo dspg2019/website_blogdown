@@ -1,5 +1,5 @@
 ---
-title: "Data Scince for the Public Good"
+title: "Data Science for the Public Good"
 slug: "about"
 image: pic02.jpg
 date: 
