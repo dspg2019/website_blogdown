@@ -15,7 +15,7 @@ draft: false
 
 Delivered by the Biocomplexity Institute and Initiative at the University of Virginia, SDAD's Data Science for the Public Good program (DSPG) offers a range of unique opportunities to aspiring scholars and future data science practitioners.
 
-**Make a real impact.** Our student fellows participate in all the laboratory’s project activities --— research that’s fundamentally transforming the way we understand the world. As part of the Biocomplexity Institute of Virginia Tech, our projects help guide the creation of resilient cities, inform effective policy responses to public health crises, and uncover key factors that drive industrial innovation.
+**Make a real impact.** Our student fellows participate in all the laboratory’s project activities --— research that’s fundamentally transforming the way we understand the world. As part of the Biocomplexity Institute and Initiative of the University of Virginia, our projects help guide the creation of resilient cities, inform effective policy responses to public health crises, and uncover key factors that drive industrial innovation.
 
 "All of our projects involved interesting issues with a clear need for statistical expertise, and a direct impact on the communities we worked with."
 
@@ -58,15 +58,15 @@ The DSPG program is open to three groups of students:
 
 - **Undergraduate students** currently enrolled at Virginia Tech can learn more about their application process by clicking here.
 - **Graduate students** currently enrolled at any U.S. university can apply for our funded fellowship positions by following the DSPG Fellow application process outlined below.
-- **Previously enrolled DSPG students interested in taking part in the program again should email Dr. Gizem Korkmaz at - - - (TODO) to inquire about current opportunities.
+- **Previously enrolled DSPG students** interested in taking part in the program again should email Dr. Gizem Korkmaz at gkorkmaz@virginia.edu to inquire about current opportunities.
 
 # DSPG Fellow Applications
 
-To apply for the DSPG Fellow Program, you must complete the following steps by January 31, 2018.
+To apply for the DSPG Fellow Program, you must complete the following steps by January 31, 2019.
 
 Meet all personal and academic requirements listed below.
 Complete our online application (TODO) and diversity data survey (TODO).
-Request two personal references (teachers, mentors, or employers) to email letters of recommendation on your behalf - - - - - (TODO).
+Request two personal references (teachers, mentors, or employers) to email letters of recommendation on your behalf dspg2019@virginia.edu.
 
 ## DSPG Fellow Requirements
 
@@ -84,10 +84,10 @@ DSPG fellows will be expected to meet the following requirements:
 To apply for DSPG, undergraduate students enrolled at Virginia Tech must complete the following steps:
 
 - Complete our online application (TODO) and diversity data survey (TODO).
-- Send a copy of your resume and cover letter to  - - - - (TODO). 
+- Send a copy of your resume and cover letter to  dspg2019@virginia.edu. 
 - Meet all undergraduate program requirements listed below.
 
-If you have any questions about the DSPG undergraduate program application process, please contact - - - - (TODO) at - - - - (TODO) or - - - - (TODO).
+If you have any questions about the DSPG undergraduate program application process, please contact Gizem Korkmaz at gkorkmaz@virginia.edu or dspg2019@virginia.edu.
 
 ## DSPG Undergraduate Program Requirements
 
