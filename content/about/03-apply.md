@@ -18,9 +18,14 @@ SDAD combines expertise in statistics and social & behavioral sciences to develo
 The DSPG program will run for 11 weeks (May 28 - August 9) for graduate fellows and 10 weeks (June 3 – August 9) for undergraduate interns. Fellows and interns will work in teams collaborating with postdoctoral associates and research faculty from SDAD, and project stakeholders. The research teams will combine disciplines including statistics, data science, and the social and behavioral sciences to address complex problems proposed by local, state, and federal agencies.
 
 Undergraduate students in any discipline and graduate students (MS or PhD) with quantitative/analytical skills enrolled at any U.S. university are encouraged to apply. The positions (8+ undergraduate interns and 4+ graduate students) will be located in BII's location in Arlington, VA. 
-To apply for this position, please contact **Gizem Korkmaz** at **gkorkmaz@virginia.edu**. You will be asked to attach a CV, transcript, and cover letter detailing your relevant experience and interest in the position. Please have three confidential letters of reference sent to this email address: dspg2019@virginia.edu. The deadline for applications is January 31, 2019. 
-To learn more about SDAD and BII, please visit us at https://biocomplexity.virginia.edu. 
-For questions about the application process, please contact **Savanna Galambos**, Faculty Search Advisor, at **skh7b@virginia.edu**.
+
+To apply for this position, please send a CV, transcript, and cover letter detailing your relevant experience and interest in the position to dspg2019@virginia.edu. Please have three confidential letters of reference sent to this same email address.
+
+The deadline for applications is January 31, 2019.
+
+To learn more about SDAD and BII, please visit us at biocomplexity.virginia.edu.
+
+For questions about the program and application process, please contact Dr. Gizem Korkmaz at gkorkmaz@virginia.edu.
 
 
 *The University of Virginia is an equal opportunity and affirmative action employer. Women, minorities, veterans and persons with disabilities are encouraged to apply.*
