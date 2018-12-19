@@ -97,7 +97,7 @@ googleAnalytics = "UA-130083897-2"
     # Display your showcases here.
 
     [[params.tiles.showcase]]
-      title = "Impactful"
+      title = "Impact"
       subtitle = "As metropolitan areas assume greater responsibility for driving social transformation and economic prosperity, the demand for publicly engaged and highly trained data scientists will continue to grow."
       image = "pic03.jpg"
       url = "about/dspg/#impact"
