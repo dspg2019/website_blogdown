@@ -99,13 +99,13 @@ googleAnalytics = "UA-130083897-2"
     [[params.tiles.showcase]]
       title = "Impact"
       subtitle = "As metropolitan areas assume greater responsibility for driving social transformation and economic prosperity, the demand for publicly engaged and highly trained data scientists will continue to grow."
-      image = "pic03.jpg"
+      image = "US_Capitol_west_side.jpg"
       url = "about/dspg/#impact"
 
     [[params.tiles.showcase]]
       title = "Methods"
       subtitle = "The program teaches student fellows how to sift through vast amounts of information related to public safety, employment, and the provision of services to discover how communities can become more efficient and sustainable."
-      image = "pic02.jpg"
+      image = "methods.jpg"
       url = "about/dspg/#methods"
 
     [[params.tiles.showcase]]

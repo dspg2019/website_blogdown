@@ -2,7 +2,7 @@
 title: "Apply (Call for students)"
 description: "Delivered by the Biocomplexity Institute and Initiative at the University of Virginia, SDAD’s Data Science for the Public Good program (DSPG) offers a range of unique opportunities to aspiring scholars and future data science practitioners."
 slug: "apply"
-image: pic08.jpg
+image: 
 keywords: ""
 categories: 
     - ""
